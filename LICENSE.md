@@ -1,4 +1,4 @@
-# 
+# Free Ollama plugins. Featuring explainable-AI and prompt-engineering — optimized for maximum performance and efficiency.
 
 
 
